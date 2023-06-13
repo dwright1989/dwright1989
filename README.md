@@ -7,7 +7,7 @@
 
 <br>
 
-- Tech Returner with Full Stack Experience (speciliase in Back End)
+- Tech Returner with Full Stack Experience (specialise in Back End)
 - BSc Hons Computer Science, MSc Advanced Computer Science
 - Looking to collaborate on projects
 - Open for job opportunities
